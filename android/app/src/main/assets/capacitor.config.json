@@ -1,0 +1,13 @@
+{
+  "appId": "net.memofy.presensiApp",
+  "appName": "presensiApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
